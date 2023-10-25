@@ -1,8 +1,8 @@
 # 🏔 OneNord for Xcode
 
-<img width="1572" alt="Screenshot 2023-10-25 at 9 55 25 AM" src="https://github.com/rmehri01/onenord-xcode/assets/52933714/1a36f4b6-ff4b-4fa0-a084-beca34856088">
+<img width="1572" alt="Screenshot 2023-10-25 at 10 02 06 AM" src="https://github.com/rmehri01/onenord-xcode/assets/52933714/97159b29-7502-4e71-b577-8f7a6ee3b163">
 
-<img width="1572" alt="Screenshot 2023-10-25 at 9 55 01 AM" src="https://github.com/rmehri01/onenord-xcode/assets/52933714/457ade4e-647a-4a06-bac3-72971222881b">
+<img width="1572" alt="Screenshot 2023-10-25 at 10 02 11 AM" src="https://github.com/rmehri01/onenord-xcode/assets/52933714/37872d16-76dc-4598-ab7e-2d98a94ebd34">
 
 # About
 
